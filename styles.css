@@ -26,9 +26,8 @@ a:hover {
 }
 
 #backgroundpicture {
-  border: 2px solid black;
-  padding: 25px;
   background: url(image/20210612_111110.png);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
+
