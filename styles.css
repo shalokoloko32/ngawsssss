@@ -38,5 +38,11 @@ body{
 }
 
 
+h1 {
+  color: black;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke: 3px black;
+}
+
 
 
