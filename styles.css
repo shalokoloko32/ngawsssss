@@ -26,9 +26,15 @@ a:hover {
 }
 
 
-html {
-  background: url(image/IMG_5674.jpg) no-repeat;
-  background-size: cover;
+body{
+    background-image: url('https://media1.tenor.com/m/4Z_VuaFmsAwAAAAd/jhepoy-dizon.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
 
 
