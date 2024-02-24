@@ -25,9 +25,10 @@ a:hover {
     text-decoration: underline;
 }
 
-.bg{
-  background-image:url('image/20210612_111110.png');
-  background-size:100% 100%;
-   z-index:-100;
-
- }
+#backgroundpicture {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(image/20210612_111110.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
